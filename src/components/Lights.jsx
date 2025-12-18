@@ -6,7 +6,6 @@ const Lights = () => {
     <group name="lights">
       {/**
        * @description Environment is used to create a background environment for the scene
-       * https://github.com/pmndrs/drei?tab=readme-ov-file#environment
        */}
       <Environment resolution={256}>
         <group>
